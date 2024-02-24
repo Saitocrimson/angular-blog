@@ -1,0 +1,38 @@
+.small_card_container{  
+
+    width: 700px;
+ 
+
+}
+.small_card_content{
+ 
+    width: 500px;
+    display:flex;
+    flex-direction: row;
+    margin-top: 1px;
+   
+ 
+
+}
+.small_card_title{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size:10px;
+    
+}
+.small_card_title h1  {
+    margin-left:10px;
+}
+.small_card_title h1 a {
+    text-decoration: none;
+}
+.small_card_img img{
+   
+    max-width: 200px;
+    
+}
+.quebra_info{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
